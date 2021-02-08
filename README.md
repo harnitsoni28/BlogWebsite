@@ -1,1 +1,1 @@
-# Computer-Science-Portal-CSP
+# Computer Science Portal (CSP)
